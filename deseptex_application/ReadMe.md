@@ -6,4 +6,4 @@ By pressing 'edit' you can drag to adjust the polygons, press 'backspace' to rem
 When pressing finish, the polygons get converted to an .svg and sent to the laser cutter.
 
 # Data
-The test images and the models are located in "mechatronica\p_projects\conventions\DeSepTex\data_and_models_for_application"
+The test images and the models are located in "mechatronica\p_projects\conventions\DeSepTex\data_and_models_for_application" 
